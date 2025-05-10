@@ -48,7 +48,7 @@ A Python-based command-line tool for encrypting and decrypting sentences using a
 
     ```bash
     python main.py
-    ```
+    
 # Command
 
 e → Encrypt a sentence
@@ -61,7 +61,7 @@ stop → Exit the program
 
 # Example 
 
-    ``` bash
+    ```bash
     what would you wanna do (encrypted(e)/decrypted(d)/stop/clear): e
     enter the word: hello world
     Encrypted: abchelloxyz defworlduvw
@@ -71,14 +71,14 @@ stop → Exit the program
     1. abchelloxyz defworlduvw
     enter your the number respect to the sentence you want to choose: 1
     Decrypted: hello world
-    ```
+    
 
 # Repository Structure
 
-    ``` bash
+    ```bash
     text-encryption-tool/
     ├── main.py  # Main encryption script
-    ```
+    
 
 # License
 
