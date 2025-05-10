@@ -61,7 +61,7 @@ stop → Exit the program
 
 # Example 
 
-    ```bash
+    
     what would you wanna do (encrypted(e)/decrypted(d)/stop/clear): e
     enter the word: hello world
     Encrypted: abchelloxyz defworlduvw
@@ -75,7 +75,7 @@ stop → Exit the program
 
 # Repository Structure
 
-    ```bash
+    
     text-encryption-tool/
     ├── main.py  # Main encryption script
     
