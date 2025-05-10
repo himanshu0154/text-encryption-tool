@@ -46,7 +46,7 @@ A Python-based command-line tool for encrypting and decrypting sentences using a
 
 ### Run the script
 
-    ```bash
+    
     python main.py
     
 # Command
